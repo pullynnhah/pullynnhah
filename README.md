@@ -40,8 +40,7 @@ will help me improve my day-to-day productivity - wish me luck!</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=pullynnhah&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dracula)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dracula)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ppaulaabro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pullynnhah) 
