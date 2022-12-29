@@ -3,7 +3,8 @@
 <h4>Hey friends! I'm learning so much in my bootcamp and it's been an incredible journey. I've been able to use Figma, <br> 
 React, NodeJS and more to bring designs to life with a responsive approach. My ultimate goal is to develop an app that <br> 
 will help me improve my day-to-day productivity - wish me luck!</h3>
----
+
+<br>
 
 # 💻 Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
