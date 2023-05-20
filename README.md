@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-<h4>Hey friends! I'm learning so much in my bootcamp and it's been an incredible journey. I've been able to use Figma, <br> 
-React, NodeJS and more to bring designs to life with a responsive approach. My ultimate goal is to develop an app that <br> 
-will help me improve my day-to-day productivity - wish me luck!</h4>
+<h4>Hey friends! I'm absolutely thrilled with the progress I've made in my bootcamp so far. It has been an incredible journey of learning and growth. Throughout the program, I've gained hands-on experience in various technologies such as Figma, React, and NodeJS, enabling me to transform designs into dynamic and responsive applications.</h4>
 
 <br>
 
